@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="refresh">Actualizar</string>
+    <string name="competition_actions_title">Título</string>
+    <string name="view_details">Detalles</string>
+    <string name="view_athletes">Atletas</string>
+    <string name="view_map">Mapa</string>
+    <string name="follow_button">Seguir</string>
+    <string name="pick_color">Elige un color</string>
+    <string name="follow">Seguir</string>
+    <string name="categories">Categorias:</string>
+    <string name="registered_number">Atletas registrados:</string>
+    <string name="last_winner">Último vencedor: Haile Gebreselassie</string>
+    <string name="time">Hora programada:</string>
+    <string name="state">Estado:</string>
+    <string name="event">Distancia:</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="login_title">Introduce usuario y contraseña</string>
+    <string name="username_hint">Usuario</string>
+    <string name="password_hint">Contraseña</string>
+    <string name="login_button_label">Log in</string>
+    <string name="connecting_text">Conectando...</string>
+    <string name="wrong_login">Usuario y/o contraseña incorrectos</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="logout">Cerrar sesión</string>
+    <string name="test_competition">[admin] Competición de prueba</string>
+    <string name="set_has_started">[admin] Iniciar competición</string>
+    <string name="stop_simulation">[admin] Parar simulación</string>
+    <string name="color">Seguir con color</string>
+    <string name="face">Seguir con cara</string>
+    <string name="no_follow">No seguir</string>
+    <string name="lock">Bloquear</string>
+    <string name="lock_dialog">Bloquear pantalla</string>
+    <string name="unlock">Desbloquear</string>
+    <string name="test_circuits_dialog">Circuitos disponibles</string>
+    <string name="no_filter">Mostrar todos</string>
+    <string name="login_toast">Vas a correr? Inicia sesión en el menú</string>
+    <string name="tab_details">Detalles</string>
+    <string name="tab_athletes">Atletas</string>
+    <string name="tab_map">Mapa</string>
+    <string name="tab_comments">Commentarios</string>
+    <string name="race_finished">Meta</string> 
+    <string name="metres">Metros</string>
+    <string name="time_race">Tiempo</string>
+    <string name="speed">Velocidad</string>   
+    <string name="metres_abbr">m</string>
+    <string name="not_available_yet">aún no disponible</string>
+    <string name="do_not_lock">No bloquear</string>
+    <string name="competition_has_started">La competición ha empezado</string> 
+    <string name="login_successful">Sesión iniciada correctamente</string>
+    <string name="write_a_comment">¡Escribe un comentario!</string>   
+    <string name="must_login">Primero debes iniciar sesión</string>    
+    <string name="post">Enviar</string>
+</resources>

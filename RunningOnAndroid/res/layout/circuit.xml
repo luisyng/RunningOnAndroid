@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout
+   xmlns:android="http://schemas.android.com/apk/res/android"
+   android:orientation="vertical"
+   android:layout_width="fill_parent"
+   android:layout_height="fill_parent"
+   android:id="@+id/layout">
+   <com.google.android.maps.MapView 
+	   android:id="@+id/map" 
+	   android:apiKey="04m2uVaBglPpjP7MtIjhp3wVDeQYgAikfP1D1MA" 
+	   android:layout_width="fill_parent" 
+	   android:layout_height="fill_parent" 
+	   android:clickable="true" />
+</AbsoluteLayout>

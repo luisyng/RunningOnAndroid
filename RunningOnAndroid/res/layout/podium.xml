@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="horizontal" android:layout_width="fill_parent"
+	android:layout_height="wrap_content" android:padding="10dip"
+	android:gravity="center_vertical" android:id="@+id/podium_layout"
+	android:background="@drawable/podium">
+	<ImageView android:layout_height="40dip" android:layout_width="40dip"
+			android:id="@+id/first_face" 
+			android:layout_x="125dip" android:layout_y="55dip"
+			android:textSize="11dip" />
+	<ImageView android:layout_height="40dip" android:layout_width="40dip"
+			android:id="@+id/second_face" 
+			android:layout_x="30dip" android:layout_y="105dip"
+			android:textSize="11dip" />
+	<ImageView android:layout_height="40dip" android:layout_width="40dip"
+			android:id="@+id/third_face" 
+			android:layout_x="210dip" android:layout_y="135dip"
+			android:textSize="11dip" />
+	<TextView android:layout_height="wrap_content" android:layout_width="80dip"
+			android:id="@+id/first_name" 
+			android:layout_x="105dip" android:layout_y="105dip"
+			android:textSize="14dip"/>
+	<TextView android:layout_height="wrap_content" android:layout_width="80dip"
+			android:id="@+id/second_name" 
+			android:layout_x="10dip" android:layout_y="155dip"
+			android:textSize="14dip"/>
+	<TextView android:layout_height="wrap_content" android:layout_width="80dip"
+			android:id="@+id/third_name" 
+			android:layout_x="200dip" android:layout_y="185dip"
+			android:textSize="14dip" /> 
+
+
+</AbsoluteLayout>

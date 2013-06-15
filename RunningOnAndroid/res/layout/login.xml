@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="fill_parent"
+	android:gravity="center"
+	android:layout_height="wrap_content" android:padding="15dip" >
+
+	<TextView android:text="@string/login_title"
+		android:layout_height="wrap_content" android:layout_width="wrap_content"
+		android:layout_gravity="center" android:layout_marginBottom="25dip"
+		android:textSize="16sp" android:gravity="center" />
+	<EditText android:id="@+id/username" android:hint="@string/username_hint"
+		android:layout_width="fill_parent" android:layout_height="wrap_content"
+		android:textSize="18sp" android:maxLength="15" />
+	<EditText android:id="@+id/password" android:password="true"
+		android:hint="@string/password_hint" android:layout_width="fill_parent"
+		android:layout_height="wrap_content" android:textSize="18sp"
+		android:maxLength="15" />
+	<Button android:id="@+id/login_button" android:layout_width="fill_parent"
+		android:layout_height="wrap_content" android:text="@string/login_button_label"
+		android:layout_marginBottom="10dip" />
+	<TextView android:text="@string/wrong_login" android:id="@+id/wrong_login"
+		android:layout_height="wrap_content" android:layout_width="wrap_content"
+		android:layout_gravity="center" android:layout_marginBottom="25dip"
+		android:textSize="12sp" android:gravity="center" 
+		android:visibility="invisible" android:textColor="@color/wrong_login" />
+</LinearLayout>

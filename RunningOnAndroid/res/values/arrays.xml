@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <array name="athlete_options">
+      <item>@string/color</item>
+      <item>@string/face</item>
+      <item>@string/no_follow</item>
+   </array>   
+</resources>

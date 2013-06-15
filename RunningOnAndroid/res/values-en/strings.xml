@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="refresh">Refresh</string>
+    <string name="competition_actions_title">Title</string>
+    <string name="view_details">Details</string>
+    <string name="view_athletes">Athletes</string>
+    <string name="view_map">Map</string>
+    <string name="follow_button">Follow</string>
+    <string name="pick_color">Choose a colour</string>
+    <string name="follow">Follow</string>
+    <string name="categories">Categories:</string>
+    <string name="registered_number">Registered athletes:</string>
+    <string name="last_winner">Last winner: Haile Gebreselassie</string>
+    <string name="time">Scheduled time:</string>
+    <string name="state">State:</string>
+    <string name="event">Distance:</string>
+    <string name="actualizar">Refresh</string>
+    <string name="login_title">Insert username and password</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button_label">Log in</string>
+    <string name="connecting_text">Connecting...</string>
+    <string name="wrong_login">Wrong username or password</string>
+    <string name="login">Log in</string>
+    <string name="logout">Log out</string>
+    <string name="test_competition">[admin] Test competition</string>
+    <string name="set_has_started">[admin] Start competition</string>
+    <string name="stop_simulation">[admin] Stop simulation</string>
+    <string name="color">Follow by colour</string>
+    <string name="face">Follow by face</string>
+    <string name="no_follow">Don\'t follow</string>
+    <string name="lock">Lock</string>
+    <string name="lock_dialog">Lock screen</string>
+    <string name="unlock">Unlock</string>
+    <string name="test_circuits_dialog">Available circuits</string>
+    <string name="no_filter">Show all</string>
+    <string name="login_toast">Going to run? Log in pressing menu</string>
+    <string name="tab_details">Details</string>
+    <string name="tab_athletes">Athletes</string>
+    <string name="tab_map">Map</string>
+    <string name="tab_comments">Comments</string>
+    <string name="race_finished">Finish</string>
+    <string name="metres">Metres</string>
+    <string name="time_race">Time</string>
+    <string name="speed">Speed</string>
+    <string name="metres_abbr">m</string>
+    <string name="not_available_yet">not available yet</string>   
+    <string name="do_not_lock">No centrar</string> 
+    <string name="competition_has_started">The competition has started</string>
+    <string name="login_successful">Login successful</string> 
+    <string name="write_a_comment">Write a comment!</string> 
+    <string name="must_login">You must log in before</string>     
+    <string name="post">Post</string>
+</resources>
